@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+img{
+    height: 70px;
+    width: 70px;
+}
+.c1{
+    padding-bottom: 25px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+.c2{
+    padding-bottom: 20px;
+}
